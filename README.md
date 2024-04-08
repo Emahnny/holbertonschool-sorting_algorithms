@@ -1,7 +1,7 @@
-# holbertonschool-sorting_algorithms
-This a C - Sorting algorithms &amp; Big O project to be done in teams of 2 people.
+holbertonschool-sorting_algorithms
 
-```markdown
+This a C - Sorting algorithms & Big O project to be done in teams of 2 people.
+
 Authors:
 - [Michael Hernández](https://github.com/MikeHe2)
 - [Emmanuel Torres](https://github.com/Emahnny)
@@ -60,4 +60,3 @@ Write in the file `3-O`, the big O notations of the time complexity of the Quick
 - in the best case
 - in the average case
 - in the worst case
-
