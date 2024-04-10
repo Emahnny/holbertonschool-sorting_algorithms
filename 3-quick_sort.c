@@ -35,8 +35,9 @@ int lomutoPartition(int *array, int low, int high, size_t size)
 {
 	int pvt = array[high];
 	int i = (low - 1);
+	int j;
 
-	for (int j = low; j <= high - 1; j++)
+	for (j = low; j <= high - 1; j++)
 	{
 		if (array[j] <= pvt)
 		{
