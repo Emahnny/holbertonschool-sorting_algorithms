@@ -1,11 +1,12 @@
 #include "sort.h"
+#include <stdbool.h>
 
 /**
  * swap_ints - Swap two integers in an array.
  * @fi: first swapping integer.
  * @si: second swappin integer.
  */
-void swap_ints(int *fi int *si)
+void swap_ints(int *fi, int *si)
 {
 	int tmp;
 
